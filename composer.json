@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.5,<7.2",
-        "zibios/wrike-php-library": "^1.0",
+        "php": ">=5.5,<7.3",
+        "zibios/wrike-php-library": "^3.0",
         "zibios/wrike-php-guzzle": "^1.0",
         "zibios/wrike-php-jmsserializer": "^1.0"
     },
